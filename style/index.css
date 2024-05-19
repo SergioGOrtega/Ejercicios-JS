@@ -1,0 +1,21 @@
+body {
+    background-image: url(../img/background_pattern.avif);
+}
+
+/*********************************** MIS CLASES ***********************************/
+
+.bg-blue-1 {
+    background-color: #7dc8fc;
+}
+
+.card {
+    transition: 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(105%);
+}
+
+.text-shadow {
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
