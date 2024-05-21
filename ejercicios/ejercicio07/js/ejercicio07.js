@@ -1,5 +1,5 @@
 // Calcula y devuelve el mcd con el método de Euclides
-let mcdEuclides = (dividendo, divisor) => {
+const mcdEuclides = (dividendo, divisor) => {
 
     let temp;
 

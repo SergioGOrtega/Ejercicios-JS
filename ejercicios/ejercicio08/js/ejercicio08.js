@@ -1,5 +1,5 @@
 // Devuelve el mes del año según el número de mes elegido
-let calendario = (mes) => {
+const calendario = (mes) => {
 
     const MESES = ["Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"];
 

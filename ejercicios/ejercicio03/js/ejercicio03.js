@@ -1,5 +1,5 @@
 // Calcula y devuelve la letra del DNI proporcionado
-let cacularLetra = (dni) => {
+const cacularLetra = (dni) => {
     const LETRAS = "TRWAGMYFPDXBNJZSQVHLCKE";
     return LETRAS[dni%23];
 }

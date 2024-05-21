@@ -1,5 +1,5 @@
 // Calcula y devuelve el cociente y el resto de una división con el método de Euclides
-let divisionEuclides = (dividendo, divisor) => {
+const divisionEuclides = (dividendo, divisor) => {
 
     let cociente = 0;
 

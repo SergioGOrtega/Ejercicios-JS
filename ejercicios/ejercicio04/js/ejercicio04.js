@@ -1,5 +1,5 @@
 // Comprueba y devuelve si la palabra es mayuscula o no
-let esMayuscula = (palabra) => {
+const esMayuscula = (palabra) => {
     return palabra === palabra.toUpperCase();
 }
 

@@ -4,8 +4,8 @@ body {
 
 /*********************************** MIS CLASES ***********************************/
 
-.bg-blue-1 {
-    background-color: #7dc8fc;
+.bg-gradiant {
+    background: linear-gradient(0deg, rgba(172,222,255,1) 0%, rgba(102,200,255,1) 100%);
 }
 
 .card {

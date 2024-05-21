@@ -1,5 +1,5 @@
 // Comprueba y devuelve si la palabra es palindromo o no
-let esPalindromo = (palabra) => {
+const esPalindromo = (palabra) => {
     return palabra.toLowerCase() === palabra.split('').reverse().join('').toLowerCase();
 }
 
